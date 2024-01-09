@@ -208,6 +208,7 @@ header{
     flex-shrink: 0;
     margin-right: 128px;
     margin: auto;
+    opacity: 0.9;
 }
 
 .schedule{
