@@ -117,6 +117,86 @@ header{
     padding-bottom: 20px;
 }
 
+/* coming soon */
+
+.upcoming-offer{
+    width: 1320px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    height: 500px;
+    padding-top: 100px;
+}
+.offer-img {
+    width: 398px; /* Set the width of the circle */
+    height: 304px; /* Set the height of the circle */
+    border-radius: 50%; /* Make the container circular */
+    overflow: hidden; /* Clip the image to the container */
+    border: 10px solid #ff0000; /* Optional: Add a border */
+
+}
+.offer-img img {
+    width: 88%; /* Make the image fill the circle */
+    height: auto;
+    display: block;
+    padding: 18px;
+}
+.coming-soon{
+    width: 400px;
+    padding-right: 200px;
+}
+.new-year-greeting{
+    width: 400px;
+    padding-left: 200px;
+}
+
+/* holiday banner */
+
+.holiday-banner{
+    background-image: url(../images/Rectangle\ 2.png);
+    width: 1320px;
+    height: 662px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 120px;
+}
+.sale{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.holiday-title{
+    font-size: 25px;
+}
+.sale h1>span{
+    color: red;
+}
+.sale h1{
+    font-size: 50px;
+}
+.group-75{
+    width: 400px;
+    height: 400px;
+    padding-top: 200px;
+    padding-left: 100px;
+}
+.group-44{
+    width: 206px;
+    height: 206px;
+    overflow: auto;
+    padding: 43px 0 40px 178px ;
+    
+}
+.rectangle-1{
+    width: 429px;
+    height: 433px;
+    overflow:auto;
+    
+}
 .year{
     display: flex;
     width: 319.83px;
